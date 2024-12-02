@@ -24,4 +24,3 @@ The **Calorie Counter** is a simple web app that helps users track their daily c
 
 ## License:
 This project is licensed under the MIT License.
-

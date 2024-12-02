@@ -18,8 +18,9 @@ This project is a simple, static nutrition label built with HTML and CSS. It dis
 
 1. **Clone the Repository**:
    Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/nutrition-label.git
+```bash
+git clone https://github.com/yourusername/nutrition-label.git
+```
 
 2. **Open in Browser**:
    Open the `index.html` file in any modern browser to view the nutrition label.

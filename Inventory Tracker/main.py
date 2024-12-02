@@ -2,7 +2,7 @@ import csv
 import os
 
 # Configuration
-INVENTORY_FILE = os.path.expanduser("~/Documents/portfolio/projects/inventory_tracker/inventory.csv")
+INVENTORY_FILE = os.path.expanduser("path/to/inventory.csv")
 LOW_STOCK_THRESHOLD = 5  # Threshold for low stock alerts
 
 # Initialize inventory if file does not exist
@@ -76,4 +76,3 @@ if __name__ == "__main__":
             break  # Exit the program
         else:
             print("Invalid option. Please choose a valid action.")
-

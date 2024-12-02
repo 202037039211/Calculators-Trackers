@@ -22,8 +22,7 @@ The **Inventory Tracker** is a simple Python application that allows users to ma
 ## Installation:
 1. Clone or download the project files.
 2. Ensure that Python 3.x is installed on your system.
-3. Run the `inventory_tracker.py` file.
+3. Run the `main.py` file.
 
 ## License:
 This project is licensed under the MIT License.
-

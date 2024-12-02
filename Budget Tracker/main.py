@@ -2,8 +2,8 @@ import csv
 import os
 
 # Configuration
-BUDGET_FILE = os.path.expanduser("~/Documents/portfolio/projects/budget_tracker/budget.csv")
-EXPENSE_FILE = os.path.expanduser("~/Documents/portfolio/projects/budget_tracker/expenses.csv")
+BUDGET_FILE = os.path.expanduser("path/to/budget.csv")
+EXPENSE_FILE = os.path.expanduser("path/to/expenses.csv")
 
 # Initialize budget and expense files
 def initialize_files():
@@ -106,4 +106,3 @@ if __name__ == "__main__":
             break
         else:
             print("Invalid option.")
-

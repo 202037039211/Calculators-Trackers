@@ -20,8 +20,9 @@ This project is a web-based statistics calculator that computes key statistical 
 ## How to Use
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/statistics-calculator.git
+```bash
+git clone https://github.com/yourusername/statistics-calculator.git
+```
 
 2. **Open the HTML File**:
    Open `index.html` in any modern browser.
@@ -32,4 +33,3 @@ This project is a web-based statistics calculator that computes key statistical 
    
 4. **View Results**:
    The calculated mean, median, mode, range, variance, and standard deviation will display below the input field.
-

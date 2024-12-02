@@ -105,4 +105,3 @@ if __name__ == "__main__":
     # Print category details and the spend chart
     print(food)
     print(create_spend_chart([food, clothing, auto]))
-

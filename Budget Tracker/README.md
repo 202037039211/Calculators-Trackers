@@ -16,9 +16,9 @@ This Python script helps you manage your budget and track your expenses. It allo
 
 ## Usage:
 1. Run the script:
-    ```bash
-    python budget_tracker.py
-    ```
+```bash
+python main.py
+```
 
 2. The script will prompt you with the following options:
    - **1**: Add a budget category.
@@ -28,8 +28,6 @@ This Python script helps you manage your budget and track your expenses. It allo
 
 ## Configuration:
 - The program will create two CSV files, `budget.csv` and `expenses.csv`, to store the budget and expense data, respectively.
-- These files will be saved in the `~/Documents/portfolio/projects/budget_tracker/` directory by default.
 
 ## License:
 This project is licensed under the MIT License - see the LICENSE file for details.
-

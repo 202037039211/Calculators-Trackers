@@ -18,10 +18,9 @@ A simple budget management app that allows users to manage multiple categories (
 
 ## Usage:
 1. Run the script:
-    ```bash
-    python budget_app.py
-    ```
-
+```bash
+python main.py
+```
 2. The script will create and manipulate categories, making deposits and withdrawals, and generating a spending chart.
 
 ## Example:
@@ -39,4 +38,4 @@ auto.withdraw(15)
 
 print(food)
 print(create_spend_chart([food, clothing, auto]))
-
+```
