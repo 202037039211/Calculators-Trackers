@@ -17,11 +17,6 @@ The **Gradebook App** is a simple JavaScript program that calculates a class ave
 2. Modify the list of scores in the `studentMsg` function to reflect the class’s scores.
 3. Test different student scores to see their grade and pass/fail status.
 
-## CodePen
-Feel free to view and edit the project on CodePen:
-
-[Insert your CodePen URL here]
-
 ---
 
 ### **Installation**

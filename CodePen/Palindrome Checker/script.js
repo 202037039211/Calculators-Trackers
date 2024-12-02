@@ -38,4 +38,3 @@ userInput.addEventListener("keydown", (e) => {
     userInput.value = "";
   }
 });
-

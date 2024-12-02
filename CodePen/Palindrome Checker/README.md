@@ -19,11 +19,6 @@ This is a simple web application that checks if a given word or sentence is a pa
 2. Click the **Check** button or press **Enter** to check if the input is a palindrome.
 3. The result will appear below the input field, showing whether the input is a palindrome or not.
 
-## CodePen
-Feel free to view and edit the project on CodePen:
-
-[Insert your CodePen URL here]
-
 ---
 
 ### **File Structure**

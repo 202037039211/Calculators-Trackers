@@ -20,11 +20,6 @@ This is a simple web application that validates US telephone numbers. The applic
 3. The result will be displayed below the input field: "Valid" in green for valid phone numbers, or "Invalid" in red for invalid ones.
 4. Use the **Clear** button to clear the results.
 
-## CodePen
-Feel free to view and edit the project on CodePen:
-
-[Insert your CodePen URL here]
-
 ---
 
 ### **File Structure**

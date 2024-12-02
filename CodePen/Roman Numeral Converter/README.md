@@ -19,11 +19,6 @@ This is a simple web application that converts a given number (between 1 and 399
 2. Click the **Convert** button to convert the number into its Roman numeral equivalent.
 3. The Roman numeral will be displayed below the input field. If the input is invalid, an error message will appear instead.
 
-## CodePen
-Feel free to view and edit the project on CodePen:
-
-[Insert your CodePen URL here]
-
 ---
 
 ### **File Structure**

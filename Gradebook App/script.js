@@ -51,4 +51,3 @@ function studentMsg(totalScores, studentScore) {
 // Example usage:
 console.log(studentMsg([92, 88, 12, 77, 57, 100, 67, 38, 97, 89], 37));
 // Output: Class average: 71.7. Your grade: F. You failed the course.
-
